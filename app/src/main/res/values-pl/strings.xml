@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Coffe</string>
+    <string name="name_editText">Imie</string>
+    <string name="toppings_textView">Dodatki</string>
+    <string name="whiped_cream_checkBox">Śmietanka</string>
+    <string name="chocolate_checkBox">Czekaloda</string>
+    <string name="quanity_textView">Ilość</string>
+    <string name="button_decrement">-</string>
+    <string name="button_increment">+</string>
+    <string name="number_off_coffe">błąd</string>
+    <string name="order_summary">podsumowanie</string>
+    <string name="summary_textView">10$</string>
+    <string name="order_button">Zamówienie</string>
+    <string name="name">Imie : <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="quanity">Ilość :</string>
+    <string name="whipped_cream">Dodać śmietankę</string>
+    <string name="chocolate">Dodać czekoladę</string>
+    <string name="thank_you">Dziękuję Tobie !</string>
+    <string name="total">Całość : $</string>
+</resources>
